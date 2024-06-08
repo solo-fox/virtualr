@@ -1,4 +1,4 @@
- ![Logo](screenshots/11.jpg)
+ ![Logo](screenshots/6.jpg)
 
 # Virtualr
 
@@ -25,7 +25,6 @@ and many more, including code architecture and reusability
 ![Screenshot 4](screenshots/4.jpg)
 ![Screenshot 5](screenshots/5.jpg)
 ![Screenshot 6](screenshots/6.jpg)
-![Screenshot 7](screenshots/7.jpg)
 
 ## Getting Started
 
